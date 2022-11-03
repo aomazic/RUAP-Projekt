@@ -1,0 +1,1 @@
+print("Pozdrav iz aplikacije od Antonia Omazića")
